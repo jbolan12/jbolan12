@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbolan12, but you can call me Georgie!
 - 👀 I’m interested in programming, and Im really excited to see where this road can take me in the future.
-- 🌱 I’m currently learning and doing a Full-Stack Web Development Course on Udemy, which has several interesting areas that I'm sure will come in handy when I start working as a web developer. 
+- 🌱 I’m have completed a Full Stack Wen Development Course on Udemy, and now I'm starting with a another course to master Python!
 - 💞️ I’m looking to collaborate on any projects that can help me to cosolidate my knowledge, practice a lot, and of course, learn a lot more.
 - 📫 How to reach me?: Feel free to send me an email to jorgedbolanosgh@gmail.com.
 - 😄 Pronouns: He/His
